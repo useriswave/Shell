@@ -168,8 +168,7 @@ int sh_help(char **args) {
     printf("Important Notes:\n\tCommands must be on a single line.\n\tAll arguments must separated by whitespace.\n\tNo quoting arguments.\n");
     printf("\nBuilt in commands:\n");
     printf("\tcd <arg>: change directory\n");
-    printf("\n\texit: exits shell\n");
-    printf("\n\thelp: show help menu\n");
+    printf("\thelp: show help menu\n");
 
     return 0;
 }
