@@ -1,6 +1,6 @@
 # C Shell
-(readme AI generated)
-A simple Unix-like shell written in C.
+(readme AI generated)  
+A simple shell written in C.
 
 ## Features
 
