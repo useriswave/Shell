@@ -1,6 +1,6 @@
 # C Shell
 (readme AI generated)  
-A simple shell written in C.
+A simple shell written in C for Linux.
 
 ## Features
 
