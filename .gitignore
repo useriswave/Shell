@@ -1,0 +1,19 @@
+# compiled binaries
+main
+shell
+*.out
+*.exe
+
+# object files
+*.o
+
+# build folders
+bin/
+build/
+
+# editor folders
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
