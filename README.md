@@ -1,7 +1,6 @@
 # C Shell  
 
-A simple shell written in C.
->>>>>>> 672d057 (fixed stuff)
+A simple shell written in C.  
 
 ## Project Structure
 
