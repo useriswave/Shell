@@ -1,14 +1,12 @@
+<<<<<<< HEAD
 # C Shell
 (readme AI generated)  
 A simple shell written in C for Linux.
+=======
+# C Shell  
 
-## Features
-
-- Reads user input
-- Splits input into command arguments
-- Runs external programs
-- Supports basic shell loop behavior
-- Uses process creation and execution with C system calls
+A simple shell written in C.
+>>>>>>> 672d057 (fixed stuff)
 
 ## Project Structure
 
@@ -35,14 +33,5 @@ make
 ./shell
 ```
 
-or:
-
-```bash
-make run
 ```
 
-## Clean
-
-```bash
-make clean
-```
