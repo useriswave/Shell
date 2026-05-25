@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# C Shell
-(readme AI generated)  
-A simple shell written in C for Linux.
-=======
 # C Shell  
 
 A simple shell written in C.
@@ -21,14 +16,11 @@ A simple shell written in C.
     └── shell.h
 ```
 
-## Build
+## Build & run
 
 ```bash
 make
 ```
-
-## Run
-
 ```bash
 ./shell
 ```
