@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/wave/projects/c/Shell/build",
+  "command": "/usr/bin/cc  -I/home/wave/projects/c/Shell/src -std=gnu11 -o CMakeFiles/shell.dir/src/main.c.o -c /home/wave/projects/c/Shell/src/main.c",
+  "file": "/home/wave/projects/c/Shell/src/main.c",
+  "output": "CMakeFiles/shell.dir/src/main.c.o"
+},
+{
+  "directory": "/home/wave/projects/c/Shell/build",
+  "command": "/usr/bin/cc  -I/home/wave/projects/c/Shell/src -std=gnu11 -o CMakeFiles/shell.dir/src/shell/shell.c.o -c /home/wave/projects/c/Shell/src/shell/shell.c",
+  "file": "/home/wave/projects/c/Shell/src/shell/shell.c",
+  "output": "CMakeFiles/shell.dir/src/shell/shell.c.o"
+}
+]
