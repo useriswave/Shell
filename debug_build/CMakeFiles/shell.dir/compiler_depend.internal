@@ -139,6 +139,6 @@ shell
  /usr/lib/gcc/x86_64-linux-gnu/15/libgcc_s.so
  /usr/lib/x86_64-linux-gnu/libc.so.6
  /usr/lib/x86_64-linux-gnu/libc_nonshared.a
- /home/wave/projects/c/Shell/build/CMakeFiles/shell.dir/src/main.c.o
- /home/wave/projects/c/Shell/build/CMakeFiles/shell.dir/src/shell/shell.c.o
+ /home/wave/projects/c/Shell/debug_build/CMakeFiles/shell.dir/src/main.c.o
+ /home/wave/projects/c/Shell/debug_build/CMakeFiles/shell.dir/src/shell/shell.c.o
 

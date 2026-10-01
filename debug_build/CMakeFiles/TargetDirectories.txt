@@ -1,0 +1,3 @@
+/home/wave/projects/c/Shell/debug_build/CMakeFiles/shell.dir
+/home/wave/projects/c/Shell/debug_build/CMakeFiles/edit_cache.dir
+/home/wave/projects/c/Shell/debug_build/CMakeFiles/rebuild_cache.dir

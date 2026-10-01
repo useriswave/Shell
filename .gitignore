@@ -1,0 +1,9 @@
+build/
+.git
+.cache/
+.debug*/
+main
+*.exe
+*.out
+*.swp
+
