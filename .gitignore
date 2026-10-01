@@ -1,7 +1,7 @@
-build/
+build*/
 .git
 .cache/
-.debug*/
+debug*/
 main
 *.exe
 *.out
